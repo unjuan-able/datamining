@@ -1,0 +1,7 @@
+sensor_data260618/
+sensor_data260624/
+sensor_data/
+scaler.pkl
+Validation_badcases.csv
+*pycache__/
+*.json
